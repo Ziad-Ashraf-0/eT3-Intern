@@ -18,6 +18,6 @@ To run task 2 navigate to the task folder then run Task2.py passing required fil
 
 To run using cmd
  
-```python
+```bash
 python Task2.py <filename>
 ```
